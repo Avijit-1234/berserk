@@ -1,0 +1,16 @@
+# Libraries
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# OS/Editor trash
+.DS_Store
+.vscode/
+
+# Python model cache (can be huge)
+.cache/

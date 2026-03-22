@@ -1,0 +1,25 @@
+# --- PYTHON ---
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# --- NODE / JS ---
+node_modules/
+dist/
+.npm/
+
+# --- SECRETS & DATA ---
+.env
+*.pdf
+*.json
+!package.json
+!package-lock.json
+
+# --- OS & EDITORS ---
+.DS_Store
+.vscode/
+.idea/
+*.swp
